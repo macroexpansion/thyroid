@@ -1,0 +1,15 @@
+datasets
+*/__pycache__/*
+padding_data
+5
+**/__pycache__/**
+.vscode
+hidden
+weights
+trained
+saved*
+center_crop_data
+2
+__pycache__
+onnx
+torchscript_module
